@@ -1,0 +1,21 @@
+{
+  "name": "VaishantMakan's Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "description": "Portfolio Website@Vaishant Makan",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/img/VM_logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ]
+}
